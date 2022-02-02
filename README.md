@@ -2,9 +2,9 @@
 
 ## This repo demonstrates a Unet TensorFlow implentation for binary segmentation of satellite imagery using the [Ottawa Road datset](https://github.com/yhlleo/RoadNet)
 
-![Routes](readmefigs/MaskResults.PNG)
+![MaskResults](readmefigs/MaskResults.PNG)
 
-![Isochrones](readmefis/TensorboardScreenshot.PNG)
+![Tensorboard](readmefigs/TensorboardScreenshot.PNG)
 
 ## Data preprocessing and network training and perfromed in Jupyter Notebooks:
 
