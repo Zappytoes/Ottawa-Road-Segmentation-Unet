@@ -8,10 +8,10 @@
 
 ## Data preprocessing and network training and perfromed in Jupyter Notebooks:
 
-> # Pre-Process-Ottawa-Data.ipynb
-> # Unet-Training.ipynb
+- # Pre-Process-Ottawa-Data.ipynb
+- # Unet-Training.ipynb
 
-# Dependencies
+## Dependencies
 
-- tensorflow-gpu 2.4.1
-- tensorboard
+- # tensorflow-gpu 2.4.1
+- # tensorboard
